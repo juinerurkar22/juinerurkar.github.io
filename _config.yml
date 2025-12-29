@@ -1,0 +1,6 @@
+theme: minima
+title: Jui
+description: Data Science • Mentorship • Writing
+
+header_pages:
+  - about.md
